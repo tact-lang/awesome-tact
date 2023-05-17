@@ -27,8 +27,9 @@ A curated list of resources designed to help you learn and program in Tact.
 - [Learn with Tact by Example](https://tact-by-example.org/)
 - [Get Started with Tact Project Template](https://github.com/tact-lang/tact-template)
 
-## 🎤 Talks & Workshops
+## 🎤 Talks, Workshops and Blog Posts
 - [Introduction to Blockchain](https://blog.ton.org/what-is-blockchain)
+- [The Story of Tact](https://blog.ton.org/the-story-of-tact)
 
 ## 🎯 Get Coding
 ### Developer Tools
