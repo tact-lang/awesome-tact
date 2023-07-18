@@ -11,6 +11,7 @@ A curated list of resources designed to help you learn and program in Tact.
 ---
 
 - [Official Resources](#-official-resources)
+- [Education](#-education)
 - [Talks & Workshops](#-talks--workshops)
 - [Get Coding](#-get-coding)
   - [Developer Tools](#developer-tools)
@@ -29,6 +30,19 @@ A curated list of resources designed to help you learn and program in Tact.
 - [Tact Community on Telegram](https://t.me/tactlang)
 - [Learn with Tact by Example](https://tact-by-example.org/)
 - [Get Started with Tact Project Template](https://github.com/tact-lang/tact-template)
+
+## 🎓 Education
+
+### Basics
+
+* [The Open Network](https://docs.ton.org/learn/introduction)
+* [What is blockchain? What is a smart contract? What is gas?](https://blog.ton.org/what-is-blockchain)
+
+### YouTube Educational Videos
+
+- [Tact & Blueprint [EN]](https://www.youtube.com/@AlefmanVladimirEN-xb4pq/videos) by [@alefman](https://t.me/alefman)
+- [Tact & Blueprint [RU]](https://www.youtube.com/watch?v=isYBvzM-MfQ&list=PLOIvUFGfwP93tZI_WnaLyJsZlskU4ao92) by [@alefman](https://t.me/alefman)
+- [Tact development [RU]](https://www.youtube.com/watch?v=S6wlNsKUHpE&list=PLyDBPwv9EPsAJpR7R0cC4kgo7BjiMmUy7&index=1) by [@nonam3e](https://t.me/nonam3e)
 
 ## 🎤 Talks, Workshops and Blog Posts
 
