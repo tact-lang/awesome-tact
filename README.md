@@ -11,7 +11,7 @@ A curated list of resources designed to help you learn and program in Tact.
 ---
 
 - [Official Resources](#-official-resources)
-- [Education]
+- [Education](#-education)
 - [Talks & Workshops](#-talks--workshops)
 - [Get Coding](#-get-coding)
   - [Developer Tools](#developer-tools)
