@@ -58,8 +58,13 @@ A curated list of resources designed to help you learn and program in Tact.
 - [Tact Wallet Contract](https://github.com/tact-lang/contract-wallet): This wallet contract supports gasless transactions, allows operations on behalf of the wallet by other contracts, and can execute a scalable number of operations in a single transaction.
 - [Tact Payouts Contract](https://github.com/tact-lang/contract-payouts): A perfect solution for on-chain payouts. This contract generates a list of text tickets for each address entitled to a payout. Tickets are signed transactions serialized as comments to be parsed by the smart contract.
 - [Simple DNS Contract](https://github.com/tact-lang/contract-dns-simple): A contract that allows you to manage DNS records in a simple way. It also allows to burn fuses disallowing certain modifications of records.
-- [NFT Standard](https://github.com/howardpen9/nft-standard-template): A basic implemetation of NFT standard that include the [TEP-62](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md) and [TEP-66](https://github.com/ton-blockchain/TEPs/blob/master/text/0066-nft-royalty-standard.md) in practice. Contributed by community contributor [@howardpen9](https://dune.com/Howard_Peng)
+- [NFT Standard](https://github.com/howardpen9/nft-standard-template): A basic implemetation of NFT standard that include the [TEP-62](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md) and [TEP-66](https://github.com/ton-blockchain/TEPs/blob/master/text/0066-nft-royalty-standard.md) in practice. Contributed by community contributor [@howardpen9](https://t.me/howard_peng)
 - [More Examples](https://github.com/tact-lang/tact/tree/main/examples): Check out 10+ examples in the official Tact repository.
+- [Community Project - TONBanking](https://gitlab.tonb.io/pub/contract): TONB is a TON blockchain smart contract that represents a digital asset (Jetton). The contract defines the owner of the Jetton, the ability to mint new tokens, the staking pool and withdrawal requests, and the ability to retrieve information about the Jetton.
+
+## 📸 Video Content
+
+- [Tact Series by Alefman Vladimir (English)](https://www.youtube.com/@AlefmanVladimirEN-xb4pq/videos): Community contrinutore with the series of video to help you learn Tact by Alefman Vladimir, by [FootSteps#247](https://github.com/ton-society/ton-footsteps/issues/247)
 
 ## Contribution Guidelines
 
