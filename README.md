@@ -35,8 +35,8 @@ A curated list of resources designed to help you learn and program in Tact.
 
 ### Basics
 
-* [The Open Network](https://docs.ton.org/learn/introduction)
-* [What is blockchain? What is a smart contract? What is gas?](https://blog.ton.org/what-is-blockchain)
+- [The Open Network](https://docs.ton.org/learn/introduction)
+- [What is blockchain? What is a smart contract? What is gas?](https://blog.ton.org/what-is-blockchain)
 
 ### YouTube Educational Videos
 
@@ -75,6 +75,10 @@ A curated list of resources designed to help you learn and program in Tact.
 - [Simple DNS Contract](https://github.com/tact-lang/contract-dns-simple): A contract that allows you to manage DNS records in a simple way. It also allows to burn fuses disallowing certain modifications of records.
 - [NFT Standard](https://github.com/howardpen9/nft-template-in-tact): A basic implemetation of NFT standard that include the [TEP-62](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md) and [TEP-66](https://github.com/ton-blockchain/TEPs/blob/master/text/0066-nft-royalty-standard.md) in practice. Contributed by community contributor [@howardpen9](https://dune.com/Howard_Peng)
 - [More Examples](https://github.com/tact-lang/tact/tree/main/examples): Check out 10+ examples in the official Tact repository.
+
+## TON Projects Using Tact
+
+- [TONB](https://gitlab.tonb.io/pub/contract): Utilising the power of TON with 0% Commission for merchants/businesses receiving digital assets.
 
 ## Contribution Guidelines
 
