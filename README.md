@@ -10,14 +10,14 @@ A curated list of resources designed to help you learn and program in Tact.
 
 ---
 
-- [📚 Official Resources](#-official-resources)
-- [🎤 Blog Posts](#-blog-posts)
-- [🎓 Education](#-education)
-- [🎯 Get Coding in Tact](#-get-coding-in-tact)
+- [Official Resources](#-official-resources)
+- [Education](#-education)
+- [Talks & Workshops](#-talks--workshops)
+- [Get Coding](#-get-coding)
   - [Developer Tools](#developer-tools)
   - [Boilerplates](#boilerplates)
   - [Libraries](#libraries)
-- [📜 Smart Contracts Examples](#-smart-contracts-examples)
+- [Smart Contracts Examples](#-smart-contracts-examples)
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 
@@ -31,25 +31,25 @@ A curated list of resources designed to help you learn and program in Tact.
 - [Learn with Tact by Example](https://tact-by-example.org/)
 - [Get Started with Tact Project Template](https://github.com/tact-lang/tact-template)
 
-## 🎤 Blog Posts
-
-- [The Story of Tact](https://blog.ton.org/the-story-of-tact)
-
 ## 🎓 Education
 
 ### Basics
 
-- [Introduction to Blockchain](https://blog.ton.org/what-is-blockchain)
-- [The Open Network](https://docs.ton.org/learn/introduction)
+* [The Open Network](https://docs.ton.org/learn/introduction)
+* [What is blockchain? What is a smart contract? What is gas?](https://blog.ton.org/what-is-blockchain)
 
 ### YouTube Educational Videos
 
 - [Tact & Blueprint [EN]](https://www.youtube.com/@AlefmanVladimirEN-xb4pq/videos) by [@alefman](https://t.me/alefman)
 - [Tact & Blueprint [RU]](https://www.youtube.com/watch?v=isYBvzM-MfQ&list=PLOIvUFGfwP93tZI_WnaLyJsZlskU4ao92) by [@alefman](https://t.me/alefman)
 - [Tact development [RU]](https://www.youtube.com/watch?v=S6wlNsKUHpE&list=PLyDBPwv9EPsAJpR7R0cC4kgo7BjiMmUy7&index=1) by [@nonam3e](https://t.me/nonam3e)
-- [Tact & TON Basic 手把手學習 [CN]](https://www.youtube.com/@ton101_zh) by [@howard_peng](https://t.me/ton101_zh)
 
-## 🎯 Get Coding in Tact
+## 🎤 Talks, Workshops and Blog Posts
+
+- [Introduction to Blockchain](https://blog.ton.org/what-is-blockchain)
+- [The Story of Tact](https://blog.ton.org/the-story-of-tact)
+
+## 🎯 Get Coding
 
 ### Developer Tools
 
@@ -74,7 +74,7 @@ A curated list of resources designed to help you learn and program in Tact.
 - [TON VOTE Contracts](https://github.com/orbs-network/ton-vote-contracts/tree/main): TON Blockchain smart contracts for [ton.vote](https://ton.vote/)
 - [Simple DNS Contract](https://github.com/tact-lang/contract-dns-simple): A contract that allows you to manage DNS records in a simple way. It also allows to burn fuses disallowing certain modifications of records.
 - [NFT Standard](https://github.com/howardpen9/nft-template-in-tact): A basic implemetation of NFT standard that include the [TEP-62](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md) and [TEP-66](https://github.com/ton-blockchain/TEPs/blob/master/text/0066-nft-royalty-standard.md) in practice. Contributed by community contributor [@howardpen9](https://dune.com/Howard_Peng)
-- [Jetton Standard Example](https://github.com/ipromise2324/Tact-Token-Contract/tree/main) that followed the TEP-72. Contributed by [@ipromise2324](https://github.com/ipromise2324) & [@howardpen9](https://github.com/howardpen9).
+- [Launchpad](https://github.com/microcosm-labs/tonup-contracts): Jetton Token launch platform that built by TonUp.io Team.
 - [More Examples](https://github.com/tact-lang/tact/tree/main/examples): Check out 10+ examples in the official Tact repository.
 
 ## Contribution Guidelines
