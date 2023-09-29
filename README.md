@@ -74,7 +74,7 @@ A curated list of resources designed to help you learn and program in Tact.
 - [TON VOTE Contracts](https://github.com/orbs-network/ton-vote-contracts/tree/main): TON Blockchain smart contracts for [ton.vote](https://ton.vote/)
 - [Simple DNS Contract](https://github.com/tact-lang/contract-dns-simple): A contract that allows you to manage DNS records in a simple way. It also allows to burn fuses disallowing certain modifications of records.
 - [NFT Standard Example](https://github.com/howardpen9/nft-template-in-tact): A basic implemetation of NFT standard that include the [TEP-62](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md) and [TEP-66](https://github.com/ton-blockchain/TEPs/blob/master/text/0066-nft-royalty-standard.md) in practice. Contributed by community contributor [@howardpen9](https://dune.com/Howard_Peng)
-- [Jetton Standard Example](https://github.com/howardpen9/jetton-implementation-in-tact): Followed the TEP-72, contributed by [@howardpen9](https://github.com/howardpen9).
+- [Jetton Standard Example](https://github.com/howardpen9/jetton-implementation-in-tact): Followed the [TEP-74](https://github.com/ton-blockchain/TEPs/blob/master/text/0074-jettons-standard.md), contributed by [@howardpen9](https://github.com/howardpen9).
 - [Jetton Token Launchpad](https://github.com/microcosm-labs/tonup-contracts): Jetton Token launch platform that built by [TonUp.io](https://tonup.io) Team.
 - [More Examples](https://github.com/tact-lang/tact/tree/main/examples): Check out 10+ examples in the official Tact repository.
 
