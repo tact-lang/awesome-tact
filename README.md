@@ -2,8 +2,6 @@
 
 # Awesome Tact [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="logo/tact_2.jpg" align="right" width="250">](https://ton.org)
-
 A curated list of resources designed to help you learn and program in Tact.
 
 [![Twitter](https://img.shields.io/twitter/follow/tact_language?style=social)](https://twitter.com/tact_language)
