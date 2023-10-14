@@ -1,8 +1,11 @@
-# Awesome Tact
+<!-- omit from toc -->
+
+# Awesome Tact [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+[<img src="logo/tact_2.jpg" align="right" width="250">](https://ton.org)
 
 A curated list of resources designed to help you learn and program in Tact.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Twitter](https://img.shields.io/twitter/follow/tact_language?style=social)](https://twitter.com/tact_language)
 [![Telegram](https://img.shields.io/badge/telegram-Tact%20Community-blue?logo=telegram)](https://t.me/tactlang)
 
@@ -10,8 +13,8 @@ A curated list of resources designed to help you learn and program in Tact.
 
 ---
 
-- [Official Resources](#-official-resources)
-- [Talks & Workshops](#-talks--workshops)
+- [📚 Official Resources](#-official-resources)
+- [🎤 Talks & Workshops](#-talks--workshops)
 - [Get Coding](#-get-coding)
   - [Developer Tools](#developer-tools)
   - [Boilerplates](#boilerplates)
@@ -40,6 +43,7 @@ A curated list of resources designed to help you learn and program in Tact.
 ### Developer Tools
 
 - [Visual Studio Code Extension for Tact](https://marketplace.visualstudio.com/items?itemName=ton-community.tact-vscode)
+- [Testing Framework - Sandbox](https://github.com/ton-org/sandbox)
 
 ### Boilerplates
 
