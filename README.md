@@ -1,14 +1,19 @@
-# Awesome Tact
+<!-- omit from toc -->
 
-A curated list of resources designed to help you learn and program in Tact.
+# Awesome Tact [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[<img src="Image/1.JPG" align="right" width="250">](https://ton.org)
+
 [![Twitter](https://img.shields.io/twitter/follow/tact_language?style=social)](https://twitter.com/tact_language)
 [![Telegram](https://img.shields.io/badge/telegram-Tact%20Community-blue?logo=telegram)](https://t.me/tactlang)
 
-## 📖 Table of Contents
+A curated list of resources designed to help you learn and program in Tact.
 
 ---
+
+<!-- omit from toc -->
+
+## 📖 Table of Contents
 
 - [📚 Official Resources](#-official-resources)
 - [🎤 Blog Posts](#-blog-posts)
@@ -76,6 +81,9 @@ A curated list of resources designed to help you learn and program in Tact.
 - [NFT Standard Example](https://github.com/howardpen9/nft-template-in-tact): A basic implemetation of NFT standard that include the [TEP-62](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md) and [TEP-66](https://github.com/ton-blockchain/TEPs/blob/master/text/0066-nft-royalty-standard.md) in practice. Contributed by community contributor [@howardpen9](https://dune.com/Howard_Peng)
 - [Jetton Standard Example](https://github.com/howardpen9/jetton-implementation-in-tact): Followed the [TEP-74](https://github.com/ton-blockchain/TEPs/blob/master/text/0074-jettons-standard.md), contributed by [@howardpen9](https://github.com/howardpen9).
 - [Jetton Token Launchpad](https://github.com/microcosm-labs/tonup-contracts): Jetton Token launch platform that built by [TonUp.io](https://tonup.io) Team.
+- [TonDynasty](https://github.com/Ton-Dynasty/tondynasty-contracts): Ton Dynasty Contract is a library for efficient smart contract development by tact-lang. Provide series of template for ton developers to utilize.
+  Ton Dynasty will always stand by you. Ask for our help in [Ton Dynasty Community](https://t.me/ton_dynasty_community).
+
 - [More Examples](https://github.com/tact-lang/tact/tree/main/examples): Check out 10+ examples in the official Tact repository.
 
 ## Contribution Guidelines
