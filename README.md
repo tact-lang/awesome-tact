@@ -85,6 +85,7 @@ A curated list of resources designed to help you learn and program in Tact.
 - [Jetton Token Launchpad](https://github.com/microcosm-labs/tonup-contracts): Jetton Token launch platform that built by [TonUp.io](https://tonup.io) Team.
 - [TonDynasty](https://github.com/Ton-Dynasty/tondynasty-contracts): Ton Dynasty Contract is a library for efficient smart contract development by tact-lang. Provide series of template for ton developers to utilize.
   Ton Dynasty will always stand by you. Ask for our help in [Ton Dynasty Community](https://t.me/ton_dynasty_community).
+- [Fireworks](https://github.com/ton-community/tact-fireworks): An educational contract for learning basic tools in tact and writing tests for special cases.
 
 - [More Examples](https://github.com/tact-lang/tact/tree/main/examples): Check out 10+ examples in the official Tact repository.
 
