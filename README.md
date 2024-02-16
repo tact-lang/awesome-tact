@@ -20,7 +20,7 @@ A curated list of resources designed to help you learn and program in Tact.
 - [🎓 Education](#-education)
 - [🎯 Get Coding in Tact](#-get-coding-in-tact)
   - [Developer Tools](#developer-tools)
-  - [Boilerplates](#boilerplates)
+  - [Templates](#templates)
   - [Libraries](#libraries)
 - [📜 Smart Contracts Examples](#-smart-contracts-examples)
 - [Contribution Guidelines](#contribution-guidelines)
@@ -59,10 +59,11 @@ A curated list of resources designed to help you learn and program in Tact.
 ### Developer Tools
 
 - [Visual Studio Code: Extension for Tact](https://marketplace.visualstudio.com/items?itemName=ton-community.tact-vscode)
-- [Jetbrains IDEs: TON plugin for Tact](https://plugins.jetbrains.com/plugin/23382-ton)
+- [JetBrains IDEs: TON plugin for Tact](https://plugins.jetbrains.com/plugin/23382-ton)
 - [Vim 8+: plugin for Tact](https://github.com/tact-lang/tact.vim)
+- [🌳 Tree-sitter grammar for the ⚡ Tact contract programming language](https://github.com/tact-lang/tree-sitter-tact)
 
-### Boilerplates
+### Templates
 
 - [Tact Template](https://github.com/tact-lang/tact-template): A ready-to-use Tact compiler with TypeScript + Jest and a Tact emulator. Includes examples of how to perform tests.
 
@@ -80,8 +81,8 @@ A curated list of resources designed to help you learn and program in Tact.
 - [Tact Payouts Contract](https://github.com/tact-lang/contract-payouts): A perfect solution for on-chain payouts. This contract generates a list of text tickets for each address entitled to a payout. Tickets are signed transactions serialized as comments to be parsed by the smart contract.
 - [TON VOTE Contracts](https://github.com/orbs-network/ton-vote-contracts/tree/main): TON Blockchain smart contracts for [ton.vote](https://ton.vote/)
 - [Simple DNS Contract](https://github.com/tact-lang/contract-dns-simple): A contract that allows you to manage DNS records in a simple way. It also allows to burn fuses disallowing certain modifications of records.
-- [NFT Standard Example](https://github.com/howardpen9/nft-template-in-tact): A basic implemetation of NFT standard that include the [TEP-62](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md) and [TEP-66](https://github.com/ton-blockchain/TEPs/blob/master/text/0066-nft-royalty-standard.md) in practice. Contributed by community contributor [@howardpen9](https://dune.com/Howard_Peng)
-- [Jetton Standard Example](https://github.com/howardpen9/jetton-implementation-in-tact): Followed the [TEP-74](https://github.com/ton-blockchain/TEPs/blob/master/text/0074-jettons-standard.md), contributed by [@howardpen9](https://github.com/howardpen9).
+- [NFT Standard Example](https://github.com/howardpen9/nft-template-in-tact): A basic implementation of NFT standard that include the [TEP-62](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md) and [TEP-66](https://github.com/ton-blockchain/TEPs/blob/master/text/0066-nft-royalty-standard.md) in practice. Contributed by community contributor [@howard_peng9](https://dune.com/Howard_Peng)
+- [Jetton Standard Example](https://github.com/howardpen9/jetton-implementation-in-tact): Followed the [TEP-74](https://github.com/ton-blockchain/TEPs/blob/master/text/0074-jettons-standard.md), contributed by [@howard_peng9](https://github.com/howardpen9).
 - [Jetton Token Launchpad](https://github.com/microcosm-labs/tonup-contracts): Jetton Token launch platform that built by [TonUp.io](https://tonup.io) Team.
 - [TonDynasty](https://github.com/Ton-Dynasty/tondynasty-contracts): Ton Dynasty Contract is a library for efficient smart contract development by tact-lang. Provide series of template for ton developers to utilize.
   Ton Dynasty will always stand by you. Ask for our help in [Ton Dynasty Community](https://t.me/ton_dynasty_community).
