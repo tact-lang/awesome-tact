@@ -61,7 +61,9 @@ A curated list of resources designed to help you learn and program in Tact.
 - [Visual Studio Code: Extension for Tact](https://marketplace.visualstudio.com/items?itemName=ton-community.tact-vscode)
 - [JetBrains IDEs: TON plugin for Tact](https://plugins.jetbrains.com/plugin/23382-ton)
 - [Vim 8+: plugin for Tact](https://github.com/tact-lang/tact.vim)
+- [Nujan Web-based IDE](https://ide.nujan.io)
 - [🌳 Tree-sitter grammar for the ⚡ Tact contract programming language](https://github.com/tact-lang/tree-sitter-tact)
+- [highlight.js-based grammar for Tact](https://github.com/bakkenbaeck/highlightjs-tact): provides syntax highlighting for Tact
 
 ### Templates
 
