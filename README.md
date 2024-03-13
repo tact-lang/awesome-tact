@@ -58,7 +58,7 @@ A curated list of resources designed to help you learn and program in Tact.
 
 ### Developer Tools
 
-- [Visual Studio Code: Extension for Tact](https://marketplace.visualstudio.com/items?itemName=ton-community.tact-vscode)
+- [Visual Studio Code: Extension for Tact](https://marketplace.visualstudio.com/items?itemName=KonVik.tact-lang-vscode)
 - [JetBrains IDEs: TON plugin for Tact](https://plugins.jetbrains.com/plugin/23382-ton)
 - [Vim 8+: plugin for Tact](https://github.com/tact-lang/tact.vim)
 - [Nujan Web-based IDE](https://ide.nujan.io)
