@@ -52,6 +52,7 @@ A curated list of resources designed to help you learn and program in Tact.
 - [Tact & Blueprint [EN]](https://www.youtube.com/@AlefmanVladimirEN-xb4pq/videos) by [@alefman](https://t.me/alefman)
 - [Tact & Blueprint [RU]](https://www.youtube.com/watch?v=isYBvzM-MfQ&list=PLOIvUFGfwP93tZI_WnaLyJsZlskU4ao92) by [@alefman](https://t.me/alefman)
 - [Tact development [RU]](https://www.youtube.com/watch?v=S6wlNsKUHpE&list=PLyDBPwv9EPsAJpR7R0cC4kgo7BjiMmUy7&index=1) by [@nonam3e](https://t.me/nonam3e)
+- [TON 开发从入门到应用 [CN]](https://openbuild.xyz/learn/challenges/2023609337/2939) by Jason
 - [Tact & TON Basic 手把手學習 [CN]](https://www.youtube.com/@ton101_zh) by [@howard_peng](https://t.me/ton101_zh)
 
 ## 🎯 Get Coding in Tact
