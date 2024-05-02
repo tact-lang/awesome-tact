@@ -94,8 +94,8 @@ Grammars:
 - [NFT Standard Example](https://github.com/howardpen9/nft-template-in-tact): A basic implementation of NFT standard that include the [TEP-62](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md) and [TEP-66](https://github.com/ton-blockchain/TEPs/blob/master/text/0066-nft-royalty-standard.md) in practice. Contributed by community contributor [@howard_peng9](https://dune.com/Howard_Peng)
 - [Jetton Standard Example](https://github.com/howardpen9/jetton-implementation-in-tact): Followed the [TEP-74](https://github.com/ton-blockchain/TEPs/blob/master/text/0074-jettons-standard.md), contributed by [@howard_peng9](https://github.com/howardpen9).
 - [Jetton Token Launchpad](https://github.com/microcosm-labs/tonup-contracts): Jetton Token launch platform that built by [TonUp.io](https://tonup.io) Team.
-- [TonDynasty](https://github.com/Ton-Dynasty/tondynasty-contracts): Ton Dynasty Contract is a library for efficient smart contract development by tact-lang. Provide series of template for ton developers to utilize.
-  Ton Dynasty will always stand by you. Ask for our help in [Ton Dynasty Community](https://t.me/ton_dynasty_community).
+- [TonDynasty](https://github.com/Ton-Dynasty/tondynasty-contracts): Ton Dynasty Contract is a library built by Perman Lab Team for efficient smart contract development by tact-lang. It provides series of template for ton developers to utilize.
+  Perman Lab will always stand by you. Ask for our help in [Perman Lab Community](https://t.me/permanlab).
 - [Fireworks](https://github.com/ton-community/tact-fireworks): An educational contract for learning basic tools in tact and writing tests for special cases.
 
 - [More Examples](https://github.com/tact-lang/tact/tree/main/examples): Check out 10+ examples in the official Tact repository.
