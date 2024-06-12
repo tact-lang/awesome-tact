@@ -33,6 +33,8 @@ A curated list of resources designed to help you learn and program in Tact.
 - [Tact Documentation](https://tact-lang.org/)
 - [Tact on GitHub](https://github.com/tact-lang/tact)
 - [Tact Community on Telegram](https://t.me/tactlang)
+- [TON Dev News Telegram channel](https://t.me/tondev_news)
+- [Tact Kitchen Telegram channel](https://t.me/tact_kitchen)
 - [Learn with Tact by Example](https://tact-by-example.org/)
 - [Get Started with Tact Project Template](https://github.com/tact-lang/tact-template)
 
