@@ -66,6 +66,7 @@ Editors and IDEs:
 - [JetBrains IDEs: TON plugin for Tact](https://plugins.jetbrains.com/plugin/23382-ton)
 - [Vim 8+: plugin for Tact](https://github.com/tact-lang/tact.vim)
 - [Nujan Web-based IDE](https://ide.nujan.io)
+- [⚡ All-in-one Sublime Text 4 package for Tact](https://packagecontrol.io/packages/Tact)
 
 Language Tools:
 - [Tact Language Server, extracted from official VSCode extension](https://github.com/novusnota/tact-extracted-ls)
