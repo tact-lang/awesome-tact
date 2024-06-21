@@ -86,6 +86,7 @@ Grammars:
 - [TON Contract DNS](https://github.com/tact-lang/ton-contract-dns): A small library for resolving TON DNS names.
 - [TON Jest](https://github.com/tact-lang/ton-jest): Testing tools for TON and Jest.
 - [Tact Deployer](https://github.com/tact-lang/tact-deployer): A library to prepare the deployment of a Tact package.
+- [Foton](https://foton.sh): A TypeScript toolkit for interacting with TON wallets and blockchain as a whole.
 
 ## 📜 Smart Contracts Examples
 
