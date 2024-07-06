@@ -88,7 +88,7 @@ Grammars:
 - [TON Jest](https://github.com/tact-lang/ton-jest): Testing tools for TON and Jest.
 - [Tact Deployer](https://github.com/tact-lang/tact-deployer): A library to prepare the deployment of a Tact package.
 - [Foton](https://foton.sh): A TypeScript toolkit for interacting with TON wallets and blockchain as a whole.
-- [Tonion](https://github.com/ton-ion/tonion-contracts): A collection of reusable smart contract Traits and toolset for the Tact language on the TON blockchain.
+- [Tonion](https://github.com/ton-ion/tonion-contracts): A collection of reusable smart contract Traits and toolkit for the Tact language on the TON blockchain.
 
 ## 📜 Smart Contracts Examples
 
