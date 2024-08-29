@@ -71,6 +71,9 @@ Editors and IDEs:
 Language Tools:
 - [Tact Language Server, extracted from official VSCode extension](https://github.com/novusnota/tact-extracted-ls)
 
+Security:
+- [Misti](https://github.com/nowarp/misti) – A static program analyzer for smart contracts on the TON Blockchain.
+
 Grammars:
 - [🌳 Tree-sitter grammar for the ⚡ Tact contract programming language](https://github.com/tact-lang/tree-sitter-tact)
 - [highlight.js-based grammar for Tact](https://github.com/bakkenbaeck/highlightjs-tact): provides syntax highlighting for Tact
