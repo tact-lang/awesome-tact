@@ -77,7 +77,7 @@ Security:
 Grammars:
 - [🌳 Tree-sitter grammar for the ⚡ Tact contract programming language](https://github.com/tact-lang/tree-sitter-tact)
 - [highlight.js-based grammar for Tact](https://github.com/bakkenbaeck/highlightjs-tact): provides syntax highlighting for Tact
-- [Prism.js grammar for Tact](https://github.com/novusnota/prism-ton/blob/main/langs/prism-tact.js): provides syntax highlighting for Tact
+- [Prism.js grammar for Tact](https://github.com/tact-lang/prism-ton/blob/main/langs/prism-tact.js): provides syntax highlighting for Tact
 
 ### Templates
 
