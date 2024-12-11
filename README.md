@@ -65,7 +65,7 @@ Editors and IDEs:
 - [Visual Studio Code: Extension for Tact](https://marketplace.visualstudio.com/items?itemName=KonVik.tact-lang-vscode)
 - [JetBrains IDEs: TON plugin for Tact](https://plugins.jetbrains.com/plugin/23382-ton)
 - [Vim 8+: plugin for Tact](https://github.com/tact-lang/tact.vim)
-- [Nujan Web-based IDE](https://ide.nujan.io)
+- [TON Web IDE](https://ide.ton.org)
 - [⚡ All-in-one Sublime Text 4 package for Tact](https://packagecontrol.io/packages/Tact)
 
 Language Tools:
