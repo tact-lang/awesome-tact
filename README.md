@@ -109,6 +109,9 @@ Grammars:
 
 - [More Examples](https://github.com/tact-lang/tact/tree/main/examples): Check out 10+ examples in the official Tact repository.
 
+## AI assistant for TACT language
+- [Tact Genie GPT](https://chatgpt.com/g/g-J44T0ADzn-tact-genie): Tact Genie AI assistant aims to provide support to TON blockchain developers using the TACT language!
+
 ## Contribution Guidelines
 
 1. Decide on the changes you want to make in the awesome-ton list.
