@@ -65,16 +65,19 @@ Editors and IDEs:
 - [Visual Studio Code: Extension for Tact](https://marketplace.visualstudio.com/items?itemName=KonVik.tact-lang-vscode)
 - [JetBrains IDEs: TON plugin for Tact](https://plugins.jetbrains.com/plugin/23382-ton)
 - [Vim 8+: plugin for Tact](https://github.com/tact-lang/tact.vim)
-- [Nujan Web-based IDE](https://ide.nujan.io)
+- [TON Web IDE](https://ide.ton.org)
 - [⚡ All-in-one Sublime Text 4 package for Tact](https://packagecontrol.io/packages/Tact)
 
 Language Tools:
 - [Tact Language Server, extracted from official VSCode extension](https://github.com/novusnota/tact-extracted-ls)
 
+Security:
+- [Misti](https://github.com/nowarp/misti) – A static program analyzer for smart contracts on the TON Blockchain.
+
 Grammars:
 - [🌳 Tree-sitter grammar for the ⚡ Tact contract programming language](https://github.com/tact-lang/tree-sitter-tact)
 - [highlight.js-based grammar for Tact](https://github.com/bakkenbaeck/highlightjs-tact): provides syntax highlighting for Tact
-- [Prism.js grammar for Tact](https://github.com/novusnota/prism-ton/blob/main/langs/prism-tact.js): provides syntax highlighting for Tact
+- [Prism.js grammar for Tact](https://github.com/tact-lang/prism-ton/blob/main/langs/prism-tact.js): provides syntax highlighting for Tact
 
 ### Templates
 
@@ -98,11 +101,11 @@ Grammars:
 - [Simple DNS Contract](https://github.com/tact-lang/contract-dns-simple): A contract that allows you to manage DNS records in a simple way. It also allows to burn fuses disallowing certain modifications of records.
 - [NFT Standard Example](https://github.com/howardpen9/nft-template-in-tact): A basic implementation of NFT standard that include the [TEP-62](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md) and [TEP-66](https://github.com/ton-blockchain/TEPs/blob/master/text/0066-nft-royalty-standard.md) in practice. Contributed by community contributor [@howard_peng9](https://dune.com/Howard_Peng)
 - [Jetton Standard Example](https://github.com/howardpen9/jetton-implementation-in-tact): Followed the [TEP-74](https://github.com/ton-blockchain/TEPs/blob/master/text/0074-jettons-standard.md), contributed by [@howard_peng9](https://github.com/howardpen9).
-- [Jetton Token Launchpad](https://github.com/microcosm-labs/tonup-contracts): Jetton Token launch platform that built by [TonUp.io](https://tonup.io) Team.
 - [TonDynasty](https://github.com/Ton-Dynasty/tondynasty-contracts): The Ton Dynasty Contracts is a library built by the Perman Lab Team for efficient smart contract development using Tact. It provides a number of templates, including contract traits, for Ton developers to utilize.
   Perman Lab will always stand by you. Ask for our help in [Perman Lab Community](https://t.me/permanlab).
 - [Fireworks](https://github.com/ton-community/tact-fireworks): An educational contract for learning basic tools in tact and writing tests for special cases.
 - [Proof of Capital](https://github.com/proof-of-capital/TON): [Proof of Capital](https://proofofcapital.org/) is a market-making smart contract that protects interests of all holders.
+- [Ready-to-use templates for Jetton & NFT](https://github.com/Laisky/tact-utils): Provides ready-to-use templates for Jetton, NFT, Traits, as well as some commonly used tools.
 
 - [More Examples](https://github.com/tact-lang/tact/tree/main/examples): Check out 10+ examples in the official Tact repository.
 
