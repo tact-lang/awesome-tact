@@ -62,14 +62,11 @@ A curated list of resources designed to help you learn and program in Tact.
 ### Developer Tools
 
 Editors and IDEs:
-- [Visual Studio Code: Extension for Tact](https://marketplace.visualstudio.com/items?itemName=KonVik.tact-lang-vscode)
-- [JetBrains IDEs: TON plugin for Tact](https://plugins.jetbrains.com/plugin/23382-ton)
-- [Vim 8+: plugin for Tact](https://github.com/tact-lang/tact.vim)
+- Tact extension for Visual Studio Code by [TON Studio](https://tonstudio.io): get it from [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=tonstudio.vscode-tact), [Open VSX Registry](https://open-vsx.org/extension/tonstudio/vscode-tact) or install from [VSIX files](https://github.com/tact-lang/tact-language-server/releases)
 - [TON Web IDE](https://ide.ton.org)
+- [Vim 8+: plugin for Tact](https://github.com/tact-lang/tact.vim)
 - [⚡ All-in-one Sublime Text 4 package for Tact](https://packagecontrol.io/packages/Tact)
-
-Language Tools:
-- [Tact Language Server, extracted from official VSCode extension](https://github.com/novusnota/tact-extracted-ls)
+- [JetBrains IDEs: TON plugin for Tact](https://plugins.jetbrains.com/plugin/23382-ton)
 
 Security:
 - [Misti](https://github.com/nowarp/misti) – A static program analyzer for smart contracts on the TON Blockchain.
