@@ -2,8 +2,6 @@
 
 # Awesome Tact [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="Image/1.JPG" align="right" width="250">](https://ton.org)
-
 [![Twitter](https://img.shields.io/twitter/follow/tact_language?style=social)](https://twitter.com/tact_language)
 [![Telegram](https://img.shields.io/badge/telegram-Tact%20Community-blue?logo=telegram)](https://t.me/tactlang)
 
