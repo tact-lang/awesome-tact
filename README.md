@@ -23,8 +23,6 @@ A curated list of resources designed to help you learn and program in Tact.
   - [Libraries](#libraries)
 - [🛠️ Tact in production](#%EF%B8%8F-tact-in-production)
 - [📜 Smart Contracts Examples](#-smart-contracts-examples)
-- [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
 
 ---
 
@@ -107,13 +105,6 @@ Grammars:
 - [Ready-to-use templates for Jetton & NFT](https://github.com/Laisky/tact-utils): Provides ready-to-use templates for Jetton, NFT, Traits, as well as some commonly used tools.
 
 - [More Examples](https://github.com/tact-lang/tact/tree/main/examples): Check out 10+ examples in the official Tact repository.
-
-## Contribution Guidelines
-
-1. Decide on the changes you want to make in the awesome-ton list.
-2. Press `.` on the `awesome-tact` page to open the online editor (VSCode).
-3. Make changes, describe them, and submit a commit as a Pull Request.
-4. Congratulations, you're now a contributor to TON! 😎
 
 ## License
 
