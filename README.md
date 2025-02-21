@@ -3,7 +3,9 @@
 # Awesome Tact [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Twitter](https://img.shields.io/twitter/follow/tact_language?style=social)](https://twitter.com/tact_language)
-[![Telegram](https://img.shields.io/badge/telegram-Tact%20Community-blue?logo=telegram)](https://t.me/tactlang)
+[![Telegram](https://img.shields.io/badge/telegram-Tact%20Community%20Chat-blue?logo=telegram)](https://t.me/tactlang)
+[![Telegram](https://img.shields.io/badge/Telegram-🥣%20Tact%20Kitchen%20Channel-white?logo=telegram)](https://t.me/tact_kitchen)
+
 
 A curated list of resources designed to help you learn and program in Tact.
 
