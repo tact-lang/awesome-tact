@@ -103,8 +103,6 @@ Grammars:
 - [Fireworks](https://github.com/ton-community/tact-fireworks): An educational contract for learning basic tools in tact and writing tests for special cases.
 - [Ready-to-use templates for Jetton & NFT](https://github.com/Laisky/tact-utils): Provides ready-to-use templates for Jetton, NFT, Traits, as well as some commonly used tools.
 
-- [More Examples](https://github.com/tact-lang/tact/tree/main/examples): Check out 10+ examples in the official Tact repository.
-
 ## License
 
 MIT
