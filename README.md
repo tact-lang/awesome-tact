@@ -63,22 +63,22 @@ A curated list of resources designed to help you learn and program in Tact.
 
 Editors and IDEs:
 - Tact extension for Visual Studio Code by [TON Studio](https://tonstudio.io): get it from [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=tonstudio.vscode-tact), [Open VSX Registry](https://open-vsx.org/extension/tonstudio/vscode-tact) or install from [VSIX files](https://github.com/tact-lang/tact-language-server/releases)
-- [TON Web IDE](https://ide.ton.org)
-- [Vim 8+: plugin for Tact](https://github.com/tact-lang/tact.vim)
-- [⚡ All-in-one Sublime Text 4 package for Tact](https://packagecontrol.io/packages/Tact)
+- [TON Web IDE](https://ide.ton.org) by TON Studio
+- [Vim 8+: plugin for Tact](https://github.com/tact-lang/tact.vim) by TON Studio
+- [⚡ All-in-one Sublime Text 4 package for Tact](https://packagecontrol.io/packages/Tact) by TON Studio
 - [JetBrains IDEs: TON plugin for Tact](https://plugins.jetbrains.com/plugin/23382-ton)
 
 Security:
-- [Misti](https://github.com/nowarp/misti) – A static program analyzer for smart contracts on the TON Blockchain.
+- [Misti](https://github.com/nowarp/misti) – A static program analyzer for smart contracts on the TON Blockchain
 
 Grammars:
-- [🌳 Tree-sitter grammar for the ⚡ Tact contract programming language](https://github.com/tact-lang/tree-sitter-tact)
+- [🌳 Tree-sitter grammar for the ⚡ Tact contract programming language](https://github.com/tact-lang/tree-sitter-tact) developed by TON Studio
 - [highlight.js-based grammar for Tact](https://github.com/bakkenbaeck/highlightjs-tact): provides syntax highlighting for Tact
 - [Prism.js grammar for Tact](https://github.com/tact-lang/prism-ton/blob/main/langs/prism-tact.js): provides syntax highlighting for Tact
 
 ### Templates
 
-- [Tact Template](https://github.com/tact-lang/tact-template): A ready-to-use Tact compiler with TypeScript + Jest and a Tact emulator. Includes examples of how to perform tests.
+- [Tact Template](https://github.com/tact-lang/tact-template): A ready-to-use template with the dev environment set up, it includes Tact compiler with TypeScript + Jest, a local TON emulator and AI-based editors support. Includes examples of how to perform tests
 
 ### Libraries
 
