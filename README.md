@@ -94,6 +94,7 @@ Grammars:
 ## 🛠️ Tact in production
 
 - [GasPump.tg](https://gaspump.tg) uses Tact (no source code available)
+- [Tradoor](https://tradoor.io) uses Tact (no source code available, but there is a [security audit report](https://www.tonbit.xyz/reports/Tradoor-Smart-Contract-Audit-Report-Summary.pdf) by TonBit
 - [PixelSwap DEX](https://www.pixelswap.io) uses Tact (no source code available, but there is a [security audit report](https://github.com/trailofbits/publications/blob/master/reviews/2024-12-pixelswap-dex-securityreview.pdf) by Trail of Bits
 - [Proof of Capital](https://github.com/proof-of-capital/TON): [Proof of Capital](https://proofofcapital.org/) is a market-making smart contract that protects interests of all holders
 
