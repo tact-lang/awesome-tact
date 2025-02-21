@@ -16,12 +16,12 @@ A curated list of resources designed to help you learn and program in Tact.
 ## 📖 Table of Contents
 
 - [📚 Official Resources](#-official-resources)
+- [🛠️ Tact in Production](#%EF%B8%8F-tact-in-production)
 - [🎓 Education](#-education)
 - [🎯 Get Coding in Tact](#-get-coding-in-tact)
   - [Developer Tools](#developer-tools)
   - [Templates](#templates)
   - [Libraries](#libraries)
-- [🛠️ Tact in production](#%EF%B8%8F-tact-in-production)
 - [📜 Smart Contracts Examples](#-smart-contracts-examples)
 
 ---
@@ -35,6 +35,13 @@ A curated list of resources designed to help you learn and program in Tact.
 - [Tact Kitchen Telegram channel](https://t.me/tact_kitchen)
 - [Learn with Tact by Example](https://tact-by-example.org/)
 - [Get Started with Tact Project Template](https://github.com/tact-lang/tact-template)
+
+## 🛠️ Tact in Production
+
+- [GasPump.tg](https://gaspump.tg) uses Tact (no source code available)
+- [Tradoor](https://tradoor.io) uses Tact (no source code available, but there is a [security audit report](https://www.tonbit.xyz/reports/Tradoor-Smart-Contract-Audit-Report-Summary.pdf) by TonBit
+- [PixelSwap DEX](https://www.pixelswap.io) uses Tact (no source code available, but there is a [security audit report](https://github.com/trailofbits/publications/blob/master/reviews/2024-12-pixelswap-dex-securityreview.pdf) by Trail of Bits
+- [Proof of Capital](https://github.com/proof-of-capital/TON): [Proof of Capital](https://proofofcapital.org/) is a market-making smart contract that protects interests of all holders
 
 ## 🎓 Education
 
@@ -83,13 +90,6 @@ Grammars:
 - [Tact Deployer](https://github.com/tact-lang/tact-deployer): A library to prepare the deployment of a Tact package.
 - [Foton](https://foton.sh): A TypeScript toolkit for interacting with TON wallets and blockchain as a whole.
 - [Tonion](https://github.com/ton-ion/tonion-contracts): A collection of reusable smart contract Traits and toolkit for the Tact language on the TON blockchain.
-
-## 🛠️ Tact in production
-
-- [GasPump.tg](https://gaspump.tg) uses Tact (no source code available)
-- [Tradoor](https://tradoor.io) uses Tact (no source code available, but there is a [security audit report](https://www.tonbit.xyz/reports/Tradoor-Smart-Contract-Audit-Report-Summary.pdf) by TonBit
-- [PixelSwap DEX](https://www.pixelswap.io) uses Tact (no source code available, but there is a [security audit report](https://github.com/trailofbits/publications/blob/master/reviews/2024-12-pixelswap-dex-securityreview.pdf) by Trail of Bits
-- [Proof of Capital](https://github.com/proof-of-capital/TON): [Proof of Capital](https://proofofcapital.org/) is a market-making smart contract that protects interests of all holders
 
 ## 📜 Smart Contracts Examples
 
