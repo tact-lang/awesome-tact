@@ -22,6 +22,7 @@ A curated list of resources designed to help you learn and program in Tact.
   - [Developer Tools](#developer-tools)
   - [Templates](#templates)
   - [Libraries](#libraries)
+- [🛠️ Tact in production](#%EF%B8%8F-tact-in-production)
 - [📜 Smart Contracts Examples](#-smart-contracts-examples)
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
@@ -90,6 +91,12 @@ Grammars:
 - [Foton](https://foton.sh): A TypeScript toolkit for interacting with TON wallets and blockchain as a whole.
 - [Tonion](https://github.com/ton-ion/tonion-contracts): A collection of reusable smart contract Traits and toolkit for the Tact language on the TON blockchain.
 
+## 🛠️ Tact in production
+
+- [GasPump.tg](https://gaspump.tg) uses Tact (no source code available)
+- [PixelSwap DEX](https://www.pixelswap.io) uses Tact (no source code available, but there is a [security audit report](https://github.com/trailofbits/publications/blob/master/reviews/2024-12-pixelswap-dex-securityreview.pdf) by Trail of Bits
+- [Proof of Capital](https://github.com/proof-of-capital/TON): [Proof of Capital](https://proofofcapital.org/) is a market-making smart contract that protects interests of all holders
+
 ## 📜 Smart Contracts Examples
 
 - [Tact Wallet Contract](https://github.com/tact-lang/contract-wallet): This wallet contract supports gasless transactions, allows operations on behalf of the wallet by other contracts, and can execute a scalable number of operations in a single transaction.
@@ -101,7 +108,6 @@ Grammars:
 - [TonDynasty](https://github.com/Ton-Dynasty/tondynasty-contracts): The Ton Dynasty Contracts is a library built by the Perman Lab Team for efficient smart contract development using Tact. It provides a number of templates, including contract traits, for Ton developers to utilize.
   Perman Lab will always stand by you. Ask for our help in [Perman Lab Community](https://t.me/permanlab).
 - [Fireworks](https://github.com/ton-community/tact-fireworks): An educational contract for learning basic tools in tact and writing tests for special cases.
-- [Proof of Capital](https://github.com/proof-of-capital/TON): [Proof of Capital](https://proofofcapital.org/) is a market-making smart contract that protects interests of all holders.
 - [Ready-to-use templates for Jetton & NFT](https://github.com/Laisky/tact-utils): Provides ready-to-use templates for Jetton, NFT, Traits, as well as some commonly used tools.
 
 - [More Examples](https://github.com/tact-lang/tact/tree/main/examples): Check out 10+ examples in the official Tact repository.
