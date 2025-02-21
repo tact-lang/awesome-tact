@@ -16,7 +16,6 @@ A curated list of resources designed to help you learn and program in Tact.
 ## 📖 Table of Contents
 
 - [📚 Official Resources](#-official-resources)
-- [🎤 Blog Posts](#-blog-posts)
 - [🎓 Education](#-education)
 - [🎯 Get Coding in Tact](#-get-coding-in-tact)
   - [Developer Tools](#developer-tools)
@@ -38,10 +37,6 @@ A curated list of resources designed to help you learn and program in Tact.
 - [Tact Kitchen Telegram channel](https://t.me/tact_kitchen)
 - [Learn with Tact by Example](https://tact-by-example.org/)
 - [Get Started with Tact Project Template](https://github.com/tact-lang/tact-template)
-
-## 🎤 Blog Posts
-
-- [The Story of Tact](https://blog.ton.org/the-story-of-tact)
 
 ## 🎓 Education
 
