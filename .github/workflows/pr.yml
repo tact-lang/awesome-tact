@@ -1,0 +1,31 @@
+name: CI
+on:
+  # For new PRs, or those who are ready and/or request a review
+  pull_request:
+    types:
+      [
+        "opened",
+        "edited",
+        "reopened",
+        "synchronize",
+        "ready_for_review",
+        "review_requested",
+      ]
+    branches: ["main"]
+  # Allows to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Allow simultaneous checks
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Lint README
+      run: npx awesome-lint README.md
