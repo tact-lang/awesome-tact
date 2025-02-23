@@ -1,1 +1,8 @@
 .vscode/
+.idea/
+.vim/
+.nvim/
+.helix/
+.emacs/
+.DS_Store
+/awesome-*
