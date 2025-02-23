@@ -8,6 +8,8 @@
 
 Tact is an open-source statically typed smart contract programming language for TON Blockchain. It runs on the stack-oriented virtual machine (TVM) and is based on the actor model.
 
+Introduced by [TON Studio][tst], driven by the community.
+
 [![Website](https://img.shields.io/badge/Website-blue?style=flat)][tl]
 [![Documentation](https://img.shields.io/badge/Documentation-blue?style=flat)][td]
 [![Twitter](https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=gray)][tlx]
@@ -53,7 +55,7 @@ Software and applications based on contracts written in Tact, deployed in produc
 
 ## Plugins and extensions for editors and IDEs [↑](#contents)
 
-###### Maintained by TON Studio
+###### Maintained by [TON Studio][tst]
 
 - [TON Web IDE](https://ide.ton.org) - Try Tact online in an ultimate browser-based IDE designed to simplify the journey of writing, testing, compiling, deploying, and interacting with smart contracts on TON.
 - [VS Code extension](https://marketplace.visualstudio.com/items?itemName=tonstudio.vscode-tact) - Powerful and feature-rich extension for Visual Studio Code (VSCode) and VSCode-based editors like VSCodium, Cursor, Windsurf and others.
@@ -73,7 +75,7 @@ Software and applications based on contracts written in Tact, deployed in produc
 
 ### Grammars and highlighting
 
-###### Maintained by TON Studio
+###### Maintained by [TON Studio][tst]
 
 - [tree-sitter-tact](https://github.com/tact-lang/tree-sitter-tact) - Tree-sitter grammar and parser, used for syntax highlighting, code navigation, and more.
 - [Prism.js grammar](https://github.com/tact-lang/prism-ton/blob/main/langs/prism-tact.js) - Provides syntax highlighting.
@@ -158,3 +160,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 [tlchat_ru]: https://t.me/tactlang_ru
 [tk]: https://t.me/tact_kitchen
 [tlx]: https://x.com/tact_language
+[tst]: https://tonstudio.io
