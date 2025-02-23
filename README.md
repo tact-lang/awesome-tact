@@ -2,7 +2,7 @@
 <!-- lint disable double-link -->
 # Awesome Tact [![Awesome badge](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="logo.svg" alt="" align="right" style="margin-left:2em" width="100">][tl]
+[<img src="logo.png" alt="" align="right" style="margin-left:2em" width="100" height="100">][tl]
 
 > A curated list of resources for learning and using [Tact][tl] programming language.
 
