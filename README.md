@@ -8,7 +8,7 @@
 
 Tact is an open-source statically typed smart contract programming language for TON Blockchain. It runs on the stack-oriented virtual machine (TVM) and is based on the actor model.
 
-Introduced by [TON Studio][tst], driven by the community.
+Developed by [TON Studio][tst], powered by the community.
 
 [![Website](https://img.shields.io/badge/Website-blue?style=flat)][tl]
 [![Documentation](https://img.shields.io/badge/Documentation-blue?style=flat)][td]
@@ -36,6 +36,8 @@ Introduced by [TON Studio][tst], driven by the community.
 - [`@tact_kitchen` on Telegram][tk] - Channel with updates from the team.
 - [`@tact_language` on X/Twitter][tlx]
 - [`tact-lang` organization on GitHub](https://github.com/tact-lang)
+- [`@ton_studio` on Telegram](https://t.me/ton_studio)
+- [`@thetonstudio` on X/Twitter](https://x.com/thetonstudio)
 
 ## Tact in Production [↑](#contents)
 
