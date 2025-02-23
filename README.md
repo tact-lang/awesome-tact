@@ -2,7 +2,7 @@
 <!-- lint disable double-link -->
 # Awesome Tact [![Awesome badge](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="logo.svg" alt="" align="right" width="100">][tl]
+[<img src="logo.svg" alt="" align="right" style="margin-left:2em" width="100">][tl]
 
 > A curated list of resources for learning and using [Tact][tl] programming language.
 
@@ -10,7 +10,7 @@ Tact is an open-source statically typed smart contract programming language for 
 
 [![Website](https://img.shields.io/badge/Website-blue?style=flat)][tl]
 [![Documentation](https://img.shields.io/badge/Documentation-blue?style=flat)][td]
-[![Twitter](https://img.shields.io/badge/X%2FTwitter-black?logo=x&style=flat)][tlx]
+[![Twitter](https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=gray)][tlx]
 [![Telegram](https://img.shields.io/badge/Community_Chat-white?logo=telegram&style=flat)][tlchat]
 [![Telegram](https://img.shields.io/badge/Tact_Kitchen_🥣-white?logo=telegram&style=flat)][tk]
 <!-- See: https://shields.io/badges/static-badge -->
@@ -67,7 +67,7 @@ Software and applications based on contracts written in Tact, deployed in produc
 
 ###### Other
 
-- [Plugin for JetBrains IDEs like WebStorm, Intellij IDEA and others](https://plugins.jetbrains.com/plugin/23382-ton)
+- [Plugin for JetBrain IDEs like WebStorm, Intellij IDEA and others](https://plugins.jetbrains.com/plugin/23382-ton)
 
 ## Tools and utilities [↑](#contents)
 
