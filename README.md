@@ -46,6 +46,7 @@ Software and applications based on contracts written in Tact, deployed in produc
 ###### Open Source or Source Available
 
 - [Proof of Capital](https://github.com/proof-of-capital/TON) - [Proof of Capital](https://proofofcapital.org/) is a market-making smart contract that protects interests of all holders.
+  - See the [security audit report](https://raw.githubusercontent.com/nowarp/public-reports/master/2025-01-proof-of-capital.pdf) by [Nowarp](https://nowarp.io).
 
 ###### Closed Source
 
