@@ -140,8 +140,14 @@ Software and applications based on contracts written in Tact, deployed in produc
 
 ## Smart contracts [↑](#contents)
 
+###### Maintained by [TON Studio][tst]
+
+- [Jetton (Fungible Token)](https://github.com/tact-lang/jetton) - TEP-compatible, gas-efficient Jetton implementation, which includes a complete setup with a pre-configured Tact compiler, production-ready smart contracts, and a TypeScript + Jest testing environment.
 - [Tact Wallet Contract](https://github.com/tact-lang/contract-wallet) - This wallet contract supports gasless transactions, allows operations on behalf of the wallet by other contracts, and can execute a scalable number of operations in a single transaction.
 - [Tact Payouts Contract](https://github.com/tact-lang/contract-payouts) - Perfect solution for on-chain payouts. This contract generates a list of text tickets for each address entitled to a payout. Tickets are signed transactions serialized as comments to be parsed by the smart contract.
+
+###### Other
+
 - [TON VOTE Contracts](https://github.com/orbs-network/ton-vote-contracts/tree/main) - Smart contracts for [ton.vote](https://ton.vote/).
 - [Simple DNS Contract](https://github.com/tact-lang/contract-dns-simple) - Contract that allows you to manage DNS records in a simple way. It also allows to burn fuses disallowing certain modifications of records.
 - [NFT Standard Example](https://github.com/howardpen9/nft-template-in-tact) - Basic implementation of NFT standard that conforms to [TEP-62](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md) and [TEP-66](https://github.com/ton-blockchain/TEPs/blob/master/text/0066-nft-royalty-standard.md) standards. Made by [@howard_peng9](https://dune.com/Howard_Peng).
