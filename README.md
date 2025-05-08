@@ -58,8 +58,6 @@ Software and applications based on contracts written in Tact, deployed in produc
 
 ## Plugins and extensions for editors and IDEs [↑](#contents)
 
-###### Maintained by [TON Studio][tst]
-
 - [TON Web IDE](https://ide.ton.org) - Try Tact online in an ultimate browser-based IDE designed to simplify the journey of writing, testing, compiling, deploying, and interacting with smart contracts on TON.
 - [VS Code extension](https://marketplace.visualstudio.com/items?itemName=tonstudio.vscode-tact) - Powerful and feature-rich extension for Visual Studio Code (VSCode) and VSCode-based editors like VSCodium, Cursor, Windsurf and others.
   - Get it on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=tonstudio.vscode-tact).
