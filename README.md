@@ -64,7 +64,7 @@ Software and applications based on contracts written in Tact, deployed in produc
   - Get it on the [Open VSX Registry](https://open-vsx.org/extension/tonstudio/vscode-tact).
   - Or install from the [`.vsix` files in nightly releases](https://github.com/tact-lang/tact-language-server/releases).
 - [Language Server (LSP Server)](https://github.com/tact-lang/tact-language-server) - Supports Sublime Text, (Neo)Vim, Helix, and other editors with LSP support.
-- [Intelli Tact](https://plugins.jetbrains.com/plugin/27290-tact) - Powerful and feature-rich plugin for JetBrain IDEs like WebStorm, IntelliJ IDEA, and others.
+- [Intelli Tact](https://plugins.jetbrains.com/plugin/27290-tact) - Powerful and feature-rich plugin for JetBrains IDEs like WebStorm, IntelliJ IDEA, and others.
 - [tact.vim](https://github.com/tact-lang/tact.vim) - Vim 8+ plugin.
 - [tact-sublime](https://github.com/tact-lang/tact-sublime) - Sublime Text 4 package.
   - Get it on the [Package Control](https://packagecontrol.io/packages/Tact).
