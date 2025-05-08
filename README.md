@@ -59,12 +59,12 @@ Software and applications based on contracts written in Tact, deployed in produc
 ## Plugins and extensions for editors and IDEs [↑](#contents)
 
 - [TON Web IDE](https://ide.ton.org) - Try Tact online in an ultimate browser-based IDE designed to simplify the journey of writing, testing, compiling, deploying, and interacting with smart contracts on TON.
-- [VS Code extension](https://marketplace.visualstudio.com/items?itemName=tonstudio.vscode-tact) - Powerful and feature-rich extension for Visual Studio Code (VSCode) and VSCode-based editors like VSCodium, Cursor, Windsurf and others.
+- [VS Code extension](https://marketplace.visualstudio.com/items?itemName=tonstudio.vscode-tact) - Powerful and feature-rich extension for Visual Studio Code (VSCode) and VSCode-based editors like VSCodium, Cursor, Windsurf, and others.
   - Get it on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=tonstudio.vscode-tact).
   - Get it on the [Open VSX Registry](https://open-vsx.org/extension/tonstudio/vscode-tact).
   - Or install from the [`.vsix` files in nightly releases](https://github.com/tact-lang/tact-language-server/releases).
 - [Language Server (LSP Server)](https://github.com/tact-lang/tact-language-server) - Supports Sublime Text, (Neo)Vim, Helix, and other editors with LSP support.
-- [Intelli Tact](https://plugins.jetbrains.com/plugin/27290-tact) - Powerful and feature-rich plugin for JetBrain IDEs like WebStorm, Intellij IDEA and others.
+- [Intelli Tact](https://plugins.jetbrains.com/plugin/27290-tact) - Powerful and feature-rich plugin for JetBrain IDEs like WebStorm, IntelliJ IDEA, and others.
 - [tact.vim](https://github.com/tact-lang/tact.vim) - Vim 8+ plugin.
 - [tact-sublime](https://github.com/tact-lang/tact-sublime) - Sublime Text 4 package.
   - Get it on the [Package Control](https://packagecontrol.io/packages/Tact).
