@@ -157,6 +157,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## Related
 
 - [awesome-ton](https://github.com/ton-community/awesome-ton) - Awesome list for TON Blockchain.
+- [awesome-ton-security](https://github.com/Polaristow/awesome-ton-security) - A curated list of awesome TON security resources.
 
 [tl]: https://tact-lang.org
 [td]: https://docs.tact-lang.org
