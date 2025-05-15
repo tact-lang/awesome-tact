@@ -107,6 +107,10 @@ Software and applications based on contracts written in Tact, deployed in produc
 - [Misti](https://github.com/nowarp/misti) - Static smart contract analyzer.
 - [TON Symbolic Analyzer (TSA)](https://github.com/espritoxyz/tsa) - Static smart contract analysis tool based on symbolic execution.
 
+### Debugging
+
+- [TxTracer](https://txtracer.ton.org) - Tool to emulate and trace any transaction from TON blockchain.
+
 ## Documentation [↑](#contents)
 
 - [Official Documentation](https://docs.tact-lang.org/)
