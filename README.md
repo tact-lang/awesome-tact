@@ -113,7 +113,7 @@ Software and applications based on contracts written in Tact, deployed in produc
 
 ### Network and analysis tools
 
-- [TON Utilities Collection](https://github.com/alphaton/ton-utilities) - Command-line utilities for TON blockchain development including real-time network statistics and amount formatting tools.
+- [TON Utilities Collection](https://github.com/alphaton/ton-utilities) - Professional command-line utilities for TON blockchain development including network statistics, amount formatting, transaction decoding, and address validation tools.
 
 ## Documentation [↑](#contents)
 
@@ -124,7 +124,7 @@ Software and applications based on contracts written in Tact, deployed in produc
 
 - [Introduction to Blockchain](https://blog.ton.org/what-is-blockchain)
 - [The Open Network](https://docs.ton.org/learn/introduction)
-
+- [TON Developer Quickstart Guide](https://github.com/alphaton/ton-developer-quickstart) - Complete developer onboarding guide from zero to TON smart contract deployment in 30 minutes by AlphaTON Capital.
 ## Videos [↑](#contents)
 
 - [Tact & Blueprint](https://www.youtube.com/@AlefmanVladimirEN-xb4pq/videos) - Made by [@alefman](https://t.me/alefman).
