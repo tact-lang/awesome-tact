@@ -111,6 +111,10 @@ Software and applications based on contracts written in Tact, deployed in produc
 
 - [TxTracer](https://txtracer.ton.org) - Tool to emulate and trace any transaction from TON blockchain.
 
+### Network and analysis tools
+
+- [TON Utilities Collection](https://github.com/alphaton/ton-utilities) - Command-line utilities for TON blockchain development including real-time network statistics and amount formatting tools.
+
 ## Documentation [↑](#contents)
 
 - [Official Documentation](https://docs.tact-lang.org/)
