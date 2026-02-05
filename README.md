@@ -86,6 +86,7 @@ Software and applications based on contracts written in Tact, deployed in produc
 ### Templates
 
 - [tact-template](https://github.com/tact-lang/tact-template) - Ready-to-use template with the development environment set up, including the Tact compiler with TypeScript + Jest, a local TON emulator, AI-based editor support, and examples of how to run tests.
+- [TON Developer Quickstart](https://github.com/alphaton/ton-developer-quickstart) - One-command project initialization with comprehensive setup including sample Tact and FunC contracts, Jest testing framework, deployment scripts, and development best practices guide.
 
 ### Frameworks and libraries
 
@@ -111,16 +112,24 @@ Software and applications based on contracts written in Tact, deployed in produc
 
 - [TxTracer](https://txtracer.ton.org) - Tool to emulate and trace any transaction from TON blockchain.
 
+### Network and analysis tools
+
+- [TON Utilities Collection](https://github.com/alphaton/ton-utilities) - Professional command-line utilities for TON blockchain development including network statistics, amount formatting, transaction decoding, and address validation tools.
+- [TON Developer Quickstart](https://github.com/alphaton/ton-developer-quickstart) - Complete developer onboarding with automated project setup, sample Tact and FunC contracts, testing framework setup, and comprehensive deployment documentation.
+- [TON Address Utils](https://github.com/alphaton/ton-address-utils) - Enhanced command-line utilities for TON address validation, format conversion, and analysis with practical developer examples and integration patterns.
+- [TON Message Bridge](https://github.com/alphaton/ton-telegram-bridge) - Native TON blockchain to Telegram messaging bridge showcasing unique 950M+ user integration capabilities and real-time event notifications.
+
 ## Documentation [↑](#contents)
 
 - [Official Documentation](https://docs.tact-lang.org/)
+- [TON Ecosystem Strategic Analysis](https://github.com/alphaton/ton-ecosystem-analysis) - Comprehensive strategic research, competitive analysis, and market intelligence for TON blockchain ecosystem development and investment positioning.
 - [Learn with Tact by Example](https://tact-by-example.org/)
 
 ## Articles [↑](#contents)
 
 - [Introduction to Blockchain](https://blog.ton.org/what-is-blockchain)
 - [The Open Network](https://docs.ton.org/learn/introduction)
-
+- [TON Developer Quickstart Guide](https://github.com/alphaton/ton-developer-quickstart) - Complete developer onboarding guide from zero to TON smart contract deployment in 30 minutes by AlphaTON Capital.
 ## Videos [↑](#contents)
 
 - [Tact & Blueprint](https://www.youtube.com/@AlefmanVladimirEN-xb4pq/videos) - Made by [@alefman](https://t.me/alefman).
