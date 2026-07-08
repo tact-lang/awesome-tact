@@ -149,6 +149,7 @@ Software and applications based on contracts written in Tact, deployed in produc
 - [TonDynasty](https://github.com/Ton-Dynasty/tondynasty-contracts) - Ton Dynasty Contracts is a library built by the Perman Lab Team for efficient smart contract development using Tact. It provides a number of templates, including contract traits, for Ton developers to utilize. Perman Lab will always stand by you. Ask for our help in [Perman Lab Community](https://t.me/permanlab).
 - [Tact Fireworks](https://github.com/ton-community/tact-fireworks) - Educational contract for learning Tact and writing tests for special cases, such as exit codes.
 - [Jetton & NFT Templates](https://github.com/Laisky/tact-utils) - Ready-to-use templates for Jetton, NFT, Traits, as well as some commonly used tools.
+- [SupaDupaDAO / Skipper](https://github.com/supadupadao/skipper) - Onchain DAO framework with jetton-based governance, treasury management and proposal lifecycle.
 
 ## Contribute
 
