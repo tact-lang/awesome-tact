@@ -1,4 +1,8 @@
 <!-- lint disable awesome-github -->
+
+> [!CAUTION]
+> Tact is deprecated. Please learn the [Tolk language](https://docs.ton.org/tolk/overview) instead.
+
 <!-- lint disable double-link -->
 # Awesome Tact [![Awesome badge](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -45,7 +49,7 @@ Software and applications based on contracts written in Tact, deployed in produc
 
 ###### Open Source or Source Available
 
-- [Proof of Capital](https://github.com/proof-of-capital/TON) - [Proof of Capital](https://proofofcapital.org/) is a market-making smart contract that protects interests of all holders.
+- [Proof of Capital](https://github.com/proof-of-capital/TON) - [Market-making smart contract](https://proofofcapital.org/) that protects interests of all holders.
   - See the [security audit report](https://raw.githubusercontent.com/nowarp/public-reports/master/2025-01-proof-of-capital.pdf) by [Nowarp](https://nowarp.io).
 
 ###### Closed Source
